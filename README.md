@@ -7,8 +7,9 @@ This is a simple code in Bash to make a map and stations. The example of map can
 
 By typing the following command in your terminal, you can easily execute the code:
 
+```
 sh swir_map.sh
-
+```
 Before running, you also need to download the following file:
 
 GEBCO_2020.nc
