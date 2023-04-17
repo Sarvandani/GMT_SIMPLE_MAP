@@ -16,3 +16,6 @@ GEBCO_2020.nc
 
 through the following link:
 https://www.gebco.net/data_and_products/gridded_bathymetry_data/
+
+
+`DISCLAIMER`:  I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
